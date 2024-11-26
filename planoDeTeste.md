@@ -1,6 +1,8 @@
-1. UI TESTING
+# 1. UI TESTING
 
 1.2.1 Login com diferentes tipos de usuários disponíveis
+
+---
 
 standard_user: 
 -
@@ -102,7 +104,7 @@ visual_user
 1.2.6 Logout: Também desloga.
 
 ----
-2. API TESTING
+# 2. API TESTING
 
 2.2.1.1 Gerar token de autenticação: Foi possivel gerar o token sem divergências
 
@@ -150,7 +152,8 @@ visual_user
 ----
 1.3.1.3 Sugestões de melhorias de UX/UI.
 
-Encontramos u
+Encontramos 
+
 1.3.1.4 Lista de bugs encontrados (se houver).
 
 Na navegação em um dos logins possui um bug que dificulta a navegação.
