@@ -1,8 +1,8 @@
-1. UI TESTING
+# 1. UI TESTING
 
 1.2.1 Login com diferentes tipos de usuários disponíveis
 
-standard_user: 
+ standard_user: 
 -
 Faz o login corretamente
 
