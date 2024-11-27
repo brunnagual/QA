@@ -175,9 +175,3 @@ Caso não consiga completar os testes até o prazo definido:
 3.2 Relate na documentação quais foram as dificuldades encontradas
 
 3.3 Documente o que foi implementado e o que ficou pendente
-
------------------------------------
-4. Envio dos entregáveis:
-Os entregáveis de ambos os testes deverão ser hospedados em um repositório no seu GitHub. O link do repositório deverá ser fornecido por meio deste formulário. Não serão aceitos links de entregáveis enviados por outros meios.
-
-Boa sorte! 🍀
